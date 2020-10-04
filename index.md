@@ -12,7 +12,7 @@ In future we thrive to build:
 
 Further details can be found in our [research resources page](research.md).
 
-# Problesm we intend to solve:
+# Problems we intend to solve:
 
 * Co-ordination of finance between different entities.
 * Relieve excess centralisation in the network.
