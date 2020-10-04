@@ -12,10 +12,15 @@ In future we thrive to build:
 
 Further details can be found in our [research resources page](research.md).
 
+# Problesm we intend to solve:
+
+* Co-ordination of finance between different entities.
+* Relieve excess centralisation in the network.
+* Information sharing between the donors
+
 
 # Values guiding the research
 
-* Community: For the community, by the community.
 * Transparency: Open processes for open discussions.
 * Inclusivity: Diverse points of view make discussions better.
 * Privacy: It’s about what you say, whoever you are.
@@ -24,8 +29,4 @@ Further details can be found in our [research resources page](research.md).
 # Who is working on this and how can you contribute?
 
 This platform is developed by a bunch of like minded people who are passionate about fighting climate change. Know more about them [here](about.md).
-Do you find this work exciting and meaningful. Can you do the following easily:
-* Understand basic computer science jargon.
-* Understand basic science of climate change.
-* Can read a research paper and make sense of it.
-Or if you are just interested to know more on how you can contribute, get in touch, you can email us at [theonlyplanet2030@gmail.com](mailto:theonlyplanet2020@gmail.com).
+If you wish to contribute and don't know where to start, get in touch, you can email us at [theonlyplanet2030@gmail.com](mailto:theonlyplanet2020@gmail.com).
