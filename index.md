@@ -1,6 +1,6 @@
 # FinTree
 
-**Project overview** Fintree is a web platform to make it easy for project developers to get finance for REDD+ projects from the global financial network. We are focused on building:
+**Project overview:** Fintree is a web platform to make it easy for project developers to get finance for REDD+ projects from the global financial network. We are focused on building:
 
 * An extensive knowledge repository of all the financial support programs in one place.
 * An online monitoring system and a dashboard from the publicly available data about the aid provided by different programs to different countries.
