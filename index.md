@@ -10,7 +10,7 @@ In future we thrive to build:
 * A single application system to apply to different support organisations for financial aid.
 * A data driven recommendation system to help project developers to know which organisations are mostly likely to support them.
 
-Further details can be found in our [research resources page](research.md).
+Further details can be found in our [research resources page](https://www.notion.so/Research-99b5d34d0ca1488a984b429556ea6a27).
 
 # Problems we intend to solve:
 
