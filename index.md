@@ -28,5 +28,5 @@ Further details can be found in our [research resources page](https://www.notion
 
 # Who is working on this and how can you contribute?
 
-This platform is developed by a bunch of like minded people who are passionate about fighting climate change. Know more about them [here](about.md).
+This platform is developed by a bunch of like minded people who are passionate about fighting climate change. Know more about them [here](https://www.notion.so/Team-Introductions-804bd84d0a4e4b83975c689478a6bc9d).
 If you wish to contribute and don't know where to start, get in touch, you can email us at [theonlyplanet2030@gmail.com](mailto:theonlyplanet2020@gmail.com).
